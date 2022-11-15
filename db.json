@@ -1,0 +1,32 @@
+{
+  "cases": [
+    {
+      "id": 1,
+      "title": "html css",
+      "email": "tuan@mail.se",
+      "description": "blablalbalbalbla",
+      "date": "13 november",
+      "status": "not started"
+    },
+    {
+      "id": 2,
+      "title": "html jaja",
+      "email": "tuan@mail.se",
+      "description": "blablalbalbalbla",
+      "date": "13 november",
+      "status": "not started"
+    },
+    {
+      "email": "tuan@mail.com",
+      "title": "problem",
+      "description": "problemmsmadma",
+      "id": 3
+    },
+    {
+      "email": "sadsad@live.se",
+      "title": "hejsan",
+      "description": "hejsanhoppsan",
+      "id": 4
+    }
+  ]
+}
